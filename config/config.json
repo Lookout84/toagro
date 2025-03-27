@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "toagro_admin",
+    "password": "passw_agro",
+    "database": "toagro_db",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": "5432",
+    "schema": "public"
+  },
+  "test": {
+    "username": "toagro_admin",
+    "password": "passw_agro",
+    "database": "toagro_db",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": "5432",
+    "schema": "public"
+  },
+  "production": {
+    "username": "toagro_admin",
+    "password": "passw_agro",
+    "database": "toagro_db",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": "5432",
+    "schema": "public"
+  }
+}
